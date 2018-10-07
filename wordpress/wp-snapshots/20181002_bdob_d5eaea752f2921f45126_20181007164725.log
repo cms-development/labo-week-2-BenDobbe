@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 7 October 2018 4:47 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.48
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.10 | SAPI: cli-server
+SERVER:		PHP 7.2.10 Development Server 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 30MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20181002_bdob_d5eaea752f2921f45126_20181007164725_database.sql 
+SQL FILE SIZE: 241.26KB (247055) 
+SQL FILE TIME: 2018-10-07 16:47:39 
+SQL RUNTIME: 0.30 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/Code/cmsdev/wordpress 
+ARCHIVE FILE: 20181002_bdob_d5eaea752f2921f45126_20181007164725_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	80.45MB 
+STATS:	Dirs 958 | Files 6,225 
+SQL ADDED: 20181002_bdob_d5eaea752f2921f45126_20181007164725_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7183
+    [filename] => C:\Code\cmsdev\wordpress\wp-snapshots\tmp\20181002_bdob_d5eaea752f2921f45126_20181007164725_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.11MB 
+ARCHIVE RUNTIME: 60.35 sec. 
+MEMORY STACK: 32MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/Code/cmsdev/wordpress/wp-snapshots/tmp/20181002_bdob_d5eaea752f2921f45126_20181007164725_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 241.26KB 
+Installer File: 474.1KB 
+Archive File: 26.11MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 67.20 sec.
+PEAK PHP MEMORY USED: 34MB
+DONE PROCESSING => 20181002_bdob 7 October 2018 4:48 pm
+ 
